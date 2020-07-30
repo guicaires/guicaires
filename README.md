@@ -1,5 +1,5 @@
-<h1 align="center">Hello world! I'm Guilherme Caires 👋<h1>
-<h3 align="center">A fullstack developer focused on Javascript stack<h3>
+<h1 align="center">Hello world! I'm Guilherme Caires 👋</h1>
+<h3 align="center">A fullstack developer focused on Javascript stack</h3>
 
 - 🔭 I’m currently dont't working
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/gcairesdev)
