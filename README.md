@@ -1,14 +1,21 @@
 <h1 align="center">Hello world! I'm Guilherme Caires 👋</h1>
-<h3 align="center">A fullstack developer focused on Javascript stack</h3>
+<h2 align="center">A fullstack developer focused on Javascript stack</h2>
 
-- 🔭 I’m currently dont't working
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/gcairesdev)
-- 💬 Ask me about *HTML, CSS, JavaScript, PHP*
-- 🌱 I’m currently learning *React, React Native, Node*
-- 📫 How to reach me *contatogcaires@gmail.com*
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gcairesdev&show_icons=true&count_private=true" /> 
+<div align="center">
+  <img width="350" src="./assets/profile.gif" style="border-radius: 10px" /> 
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcairesdev&layout=compact" /> 
-</p>
+<br>
+
+<p align="center">🔭 I’m currently dont't working</p>
+<p align="center">💬 Ask me about *HTML, CSS, JavaScript, PHP*</p>
+<p align="center">📫 How to reach me *contatogcaires@gmail.com*</p>
+<p align="center">🌱 I’m currently learning *React, React Native, Node*</p>
+
+<br>
+
+<div align="center">
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcairesdev&layout=compact" style="border-radius: 10px" /> 
+</div>
