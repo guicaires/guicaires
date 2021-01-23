@@ -1,11 +1,11 @@
-<div align="center" style="margin-bottom: 10px;">
+<p align="center" style="margin-bottom: 10px;">
   <img src="./assets/banner.png" style="border-radius: 10px" /> 
-</div>
+</p>
 
 <h1 align="center">Guilherme Caires</h1>
 <h2 align="center">A fullstack developer focused on Javascript stack</h2>
 
-<div align="center" style="margin: 10px 0;">
+<p align="center" style="margin: 10px 0;">
 
   <a href="https://github.com/gcairesdev" target="_blank" >
     <img src="https://img.shields.io/badge/-gcairesdev-00b3f4?style=for-the-badge&color=00b3f4&labelColor=333333&logo=github&logoColor=white&link=https://github.com/gcairesdev"></img>
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/-contatogcaires@gmail.com-04729a?style=for-the-badge&color=04729a&labelColor=333333&logo=Gmail&logoColor=white&link=mailto:contatogcaires@gmail.com"></img>
   </a>
 
-</div>
+</p>
 
 <p style="margin-top: 30px;">My name is Guilherme Caires and i'm a systems developer.</p>
 
@@ -29,7 +29,7 @@
 
 <h3 style="margin: 20px 0 20px 0">Technologies & Tools</h3>
 
-<div style="display: flex; flex-direction: row;">
+<p style="display: flex; flex-direction: row;">
 
   <img style="margin-right: 5px;" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0296cc">
 
@@ -47,4 +47,4 @@
 
   <img style="margin-right: 5px;" src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0296cc">
 
-</div>
+</p>
