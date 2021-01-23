@@ -45,10 +45,6 @@
 
   <img style="margin-right: 5px;" src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0296cc">
 
-  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0296cc">
-
-  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0296cc">
-
   <img style="margin-right: 5px;" src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0296cc">
 
 </div>
