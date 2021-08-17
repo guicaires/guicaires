@@ -48,3 +48,5 @@
   <img style="margin-right: 5px;" src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0296cc">
 
 </p>
+
+![Snake animation](https://github.com/gcairesdev/gcairesdev/blob/output/github-contribution-grid-snake.svg)
