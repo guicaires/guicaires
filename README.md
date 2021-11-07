@@ -25,7 +25,7 @@
 
 <p>I love working with JavaScript and its stack (NodeJS, React and React Native).</p>
 
-<p>I'm currently work at @InformaticaTopos.</p>
+<p>I'm currently work at Alpes One.</p>
 
 <h3 style="margin: 20px 0 20px 0">Technologies & Tools</h3>
 
