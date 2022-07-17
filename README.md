@@ -44,5 +44,3 @@
   <img style="margin-right: 5px;" src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=12233f">
 
 </p>
-
-![Snake animation](https://github.com/gcairesdev/gcairesdev/blob/output/github-contribution-grid-snake.svg)
