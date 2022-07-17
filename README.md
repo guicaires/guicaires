@@ -23,7 +23,7 @@
 
 <p style="margin-top: 30px;">My name is Guilherme Caires and i'm a systems developer.</p>
 
-<p>I'm currently work at [Alpes One](https://alpes.one).</p>
+<p>I'm currently work at <a href="https://alpes.one">Alpes One</a>.</p>
 
 <h3 style="margin: 20px 0 20px 0">Technologies & Tools</h3>
 
