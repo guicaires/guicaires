@@ -8,15 +8,15 @@
 <p align="center" style="margin: 10px 0;">
 
   <a href="https://github.com/gcairesdev" target="_blank" >
-    <img src="https://img.shields.io/badge/-gcairesdev-12233f?style=for-the-badge&color=12233f&labelColor=333333&logo=github&logoColor=white&link=https://github.com/gcairesdev"></img>
+    <img src="https://img.shields.io/badge/-gcairesdev-12233f?style=for-the-badge&color=1d1d1d&labelColor=555555&logo=github&logoColor=white&link=https://github.com/gcairesdev"></img>
   </a>
 
   <a href="https://www.linkedin.com/in/guilherme-caires" target="_blank" >
-    <img src="https://img.shields.io/badge/-Guilherme%20Caires-12233f?style=for-the-badge&color=12233f&labelColor=333333&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-caires/"></img>
+    <img src="https://img.shields.io/badge/-Guilherme%20Caires-12233f?style=for-the-badge&color=1d1d1d&labelColor=555555&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-caires/"></img>
   </a>
 
   <a href="mailto:contatogcaires@gmail.com" target="_blank" >
-    <img src="https://img.shields.io/badge/-contatogcaires@gmail.com-12233f?style=for-the-badge&color=12233f&labelColor=333333&logo=Gmail&logoColor=white&link=mailto:contatogcaires@gmail.com"></img>
+    <img src="https://img.shields.io/badge/-contatogcaires@gmail.com-12233f?style=for-the-badge&color=1d1d1d&labelColor=555555&logo=Gmail&logoColor=white&link=mailto:contatogcaires@gmail.com"></img>
   </a>
 
 </p>
