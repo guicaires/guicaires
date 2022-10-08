@@ -29,18 +29,18 @@
 
 <p style="display: flex; flex-direction: row;">
 
-  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=12233f">
+  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=555555">
 
-  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=12233f">
+  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=555555">
 
-  <img style="margin-right: 5px;" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=12233f">
+  <img style="margin-right: 5px;" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=555555">
 
-  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=12233f">
+  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=555555">
   
-  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=12233f">
+  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=555555">
   
-  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=12233f">
+  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=555555">
 
-  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=12233f">
+  <img style="margin-right: 5px;" src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=555555">
 
 </p>
