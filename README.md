@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 10px;">
-  <img src="./assets/banner.png" /> 
+  <img src="./assets/banner-back-end.png" /> 
 </p>
 
 <h1 align="center">Guilherme Caires</h1>
