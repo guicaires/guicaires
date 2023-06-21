@@ -2,8 +2,8 @@
   <img src="./assets/banner-back-end.png" /> 
 </p>
 
-<h1 align="center">Guilherme Caires</h1>
-<h2 align="center">Back-end developer focused on PHP</h2>
+<h1 align="center">Gui Caires</h1>
+<h2 align="center">Back-end developer</h2>
 
 <p align="center" style="margin: 10px 0;">
 
