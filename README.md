@@ -15,10 +15,6 @@
     <img src="https://img.shields.io/badge/-Guilherme%20Caires-12233f?style=for-the-badge&color=1d1d1d&labelColor=555555&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-caires/"></img>
   </a>
 
-  <a href="mailto:contatogcaires@gmail.com" target="_blank" >
-    <img src="https://img.shields.io/badge/-contatogcaires@gmail.com-12233f?style=for-the-badge&color=1d1d1d&labelColor=555555&logo=Gmail&logoColor=white&link=mailto:contatogcaires@gmail.com"></img>
-  </a>
-
 </p>
 
 <p style="margin-top: 30px;">My name is Guilherme Caires and i'm a systems developer.</p>
