@@ -11,7 +11,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/guilherme-caires" target="_blank">
-    <img src="https://img.shields.io/badge/-Guilherme%20Caires-12233f?style=for-the-badge&color=1d1d1d&labelColor=555555&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-caires/"/>
+    <img src="https://img.shields.io/badge/-Guilherme%20Caires-12233f?style=for-the-badge&color=1d1d1d&labelColor=555555&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/guilherme-caires/"/>
   </a>
 </p>
 
