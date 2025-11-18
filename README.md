@@ -7,11 +7,11 @@
 
 <p align="center" style="margin: 10px 0;">
   <a href="https://github.com/guicaires" target="_blank">
-    <img src="https://img.shields.io/badge/-guicaires-12233f?style=for-the-badge&color=1d1d1d&labelColor=555555&logo=github&logoColor=white&link=https://github.com/guicaires"/>
+    <img src="https://img.shields.io/badge/-guicaires-12233f?style=for-the-badge&color=1d1d1d&labelColor=17c051&logo=github&logoColor=white&link=https://github.com/guicaires"/>
   </a>
 
   <a href="https://www.linkedin.com/in/guilherme-caires" target="_blank">
-    <img src="https://img.shields.io/badge/-Guilherme%20Caires-12233f?style=for-the-badge&color=1d1d1d&labelColor=555555&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/guilherme-caires/"/>
+    <img src="https://img.shields.io/badge/-Guilherme%20Caires-12233f?style=for-the-badge&color=1d1d1d&labelColor=17c051&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/guilherme-caires/"/>
   </a>
 </p>
 
